@@ -16,6 +16,6 @@
     "issueType": "DEPENDENCY"
   },
   "remediateSettings": {
-    "extends": ["github>whitesource/merge-confidence:beta"]
+
   }
 }
