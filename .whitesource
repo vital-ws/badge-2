@@ -5,7 +5,6 @@
     "baseBranches": ["integration"],
     "enableLicenseViolations": false,
     "enableSAST": true,
-    "enableSASTRemediation": true
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
