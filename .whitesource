@@ -2,7 +2,6 @@
   "scanSettings": {
     "configMode": "AUTO",
     "configExternalURL": "",
-    "baseBranches": ["integration"],
     "enableLicenseViolations": false,
     "enableSAST": true
   },
