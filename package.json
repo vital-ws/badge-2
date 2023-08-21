@@ -1,6 +1,6 @@
 {
     "name": "cve",
     "dependencies": {
-        "tar":"4.4.18"
+        "tar":"4.4.19"
     }
 }
